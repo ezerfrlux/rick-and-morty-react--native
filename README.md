@@ -1,10 +1,8 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-![imagen](assets/images/image1.jpg)
-![imagen](assets/images/image2.jpg)
-
+<img src="assets/images/image1.jpg" width="300" height="200" />
+<img src="assets/images/image2.jpg" width="400" />
 
 ## Get started
 
