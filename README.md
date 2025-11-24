@@ -1,9 +1,12 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-<img src="assets/images/image1.jpg" width="300" height="200" />
-<img src="assets/images/image2.jpg" width="400" />
 
+<!-- Imagen 1: ancho 300px, altura ajustada automáticamente -->
+<img src="assets/images/image1.jpg" width="300" style="height:auto;" />
+
+<!-- Imagen 2: ancho 300px, altura ajustada automáticamente -->
+<img src="assets/images/image2.jpg" width="300" style="height:auto;" />
 ## Get started
 
 1. Install dependencies
